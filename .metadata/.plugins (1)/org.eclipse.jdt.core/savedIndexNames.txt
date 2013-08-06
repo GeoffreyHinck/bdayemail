@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+C:\Users\Geoffrey James\bdayemail\.metadata\.plugins\org.eclipse.jdt.core
+3451636199.index
+404970102.index
+601341911.index
