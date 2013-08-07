@@ -18,7 +18,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Email address(es):" >
+                android:text="Email address:" >
             </TextView>
 
             <EditText
@@ -38,13 +38,13 @@
                 android:id="@+id/etName"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:hint="enter name" >
+                android:hint="enter their name(s)" >
             </EditText>
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="How old is this person turning?" >
+                android:text="How old are they turning?" >
             </TextView>
 
             <EditText
